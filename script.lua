@@ -1,1 +1,1 @@
-slua.HamzaCallback("[FILE] Hello from file!")
+slua.HamzaCallback("[GITHUP] Hello from file!")
